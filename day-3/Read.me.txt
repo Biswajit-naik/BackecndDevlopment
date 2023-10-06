@@ -1,0 +1,2 @@
+for cloudinary integration :-
+which is a cloud-media-based platform.
